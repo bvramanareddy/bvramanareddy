@@ -1,9 +1,11 @@
 👋 Hi, I'm Ramana Reddy B!
 🚀 Automation Tester | UI, API & Database Testing | Selenium | RestAssured | SQL
 
-🔹 About Me
+🔹 **About Me**
 🔍 Passionate Automation Tester with hands-on experience in UI, API, and Database testing.
+
 🛠 Skilled in Selenium WebDriver (Java/Python) for UI automation.
+
 🌐 API Testing & Automation using RestAssured (Java), Postman, and SOAP UI.
 💾 Strong expertise in SQL for database validation & backend testing.
 🏗 Proficient in Test Frameworks – TestNG, JUnit, Robot Framework and Cucumber.
