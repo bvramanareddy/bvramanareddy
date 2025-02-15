@@ -24,30 +24,30 @@
 
 🛠 **Tech Stack**
 
-💻 Programming & Scripting
+**💻 Programming & Scripting**
 
 Java | Python | JavaScript
 
-🧪 Testing & Automation
+**🧪 Testing & Automation**
 
 Selenium WebDriver | RestAssured | TestNG | Cucumber | JUnit
 
-🌐 API & Database
+**🌐** **API & Database**
 
 Postman | SQL | MySQL | Oracle | MongoDB
 
-🔄 CI/CD & DevOps
+**🔄** **CI/CD & DevOps**
 
 Jenkins | Maven | GitHub Actions | Docker
 
-📜 Version Control & Collaboration
+**📜** **Version Control & Collaboration**
 
 Git | GitHub | Bitbucket
 
-📫 **Let's Connect!**
+**📫** **Let's Connect!**
 
-🔗 GitHub: https://github.com/bvramanareddy
+**🔗** **GitHub**: https://github.com/bvramanareddy
 
-🔗 LinkedIn: https://www.linkedin.com/in/ramana-reddy-%F0%9F%87%A8%F0%9F%87%A6-815330b6/
+**🔗** **LinkedIn**: https://www.linkedin.com/in/ramana-reddy-%F0%9F%87%A8%F0%9F%87%A6-815330b6/
 
-📧 Email: boda.v@yahoo.com
+**📧** **Email**: boda.v@yahoo.com
