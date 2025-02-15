@@ -23,6 +23,7 @@
 🏢 Currently working in Canada.
 
 🛠 **Tech Stack**
+
 💻 Programming & Scripting
 
 Java | Python | JavaScript
@@ -30,11 +31,13 @@ Java | Python | JavaScript
 🧪 Testing & Automation
 
 Selenium WebDriver | RestAssured | TestNG | Cucumber | JUnit
+
 🌐 API & Database
 
 Postman | SQL | MySQL | Oracle | MongoDB
 
 🔄 CI/CD & DevOps
+
 Jenkins | Maven | GitHub Actions | Docker
 
 📜 Version Control & Collaboration
@@ -44,5 +47,7 @@ Git | GitHub | Bitbucket
 📫 **Let's Connect!**
 
 🔗 GitHub: https://github.com/bvramanareddy
+
 🔗 LinkedIn: https://www.linkedin.com/in/ramana-reddy-%F0%9F%87%A8%F0%9F%87%A6-815330b6/
+
 📧 Email: boda.v@yahoo.com
