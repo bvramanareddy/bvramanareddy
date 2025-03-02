@@ -20,7 +20,7 @@
 
 🔄 Actively exploring new automation trends & best practices to enhance testing efficiency.
 
-🏢 Currently located abd working in **Canada**.
+🏢 Currently located and working in **Canada**.
 
 🛠 **Tech Stack**
 
