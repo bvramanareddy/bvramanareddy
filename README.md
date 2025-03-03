@@ -30,7 +30,7 @@ Java | Python | JavaScript
 
 **🧪 Testing & Automation**
 
-Selenium WebDriver | RestAssured | TestNG | Cucumber | JUnit
+Selenium WebDriver | RestAssured | TestNG | Cucumber | JUnit | RObot Framework | PyTest
 
 **🌐** **API & Database**
 
